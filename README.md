@@ -1,4 +1,3 @@
-<img width="800" height="600" alt="speedup" src="https://github.com/user-attachments/assets/0c2c1322-4e47-4d70-8ec3-fcbda94e10f0" />
 # Parallel K-Means Clustering (OpenMP)
 
 ## 1. Project Overview
