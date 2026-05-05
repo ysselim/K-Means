@@ -154,6 +154,7 @@ The benchmark shows that execution time increases as dataset size grows, while a
 ### Speedup vs Threads
 
 <img width="800" height="600" alt="speedup" src="https://github.com/user-attachments/assets/27645807-2b4e-42a6-ae3f-7dd5bb08d773" />
+
 ```markdown
 ![Speedup vs Threads](speedup.png)
 ```
